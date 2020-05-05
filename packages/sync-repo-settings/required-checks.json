@@ -69,6 +69,7 @@
       {
         "repo": "googleapis/java-bigtable-hbase",
         "requiredStatusChecks": [
+          "Kokoro - Test: Binary Compatibility",
           "Kokoro - Test: Code Format",
           "Kokoro - Test: Dependencies",
           "Kokoro - Test: Integration",
